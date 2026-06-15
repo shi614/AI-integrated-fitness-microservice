@@ -115,21 +115,11 @@ AI-Integrated-Fitness-Microservice
 
 ---
 
-## 📸 Screenshots
+📸 Screenshots
+<img width="1920" height="1200" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/636fd15b-5743-4a50-addd-b42821d02475" />
+<img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/75cff835-1809-4830-8df7-4e46115b2635" />
 
-### Dashboard
 
-(Add Screenshot Here)
-
-### Activity Tracking
-
-(Add Screenshot Here)
-
-### AI Recommendation
-
-(Add Screenshot Here)
-
----
 
 ## 🔮 Future Enhancements
 
